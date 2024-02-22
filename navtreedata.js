@@ -31,6 +31,16 @@ var NAVTREE =
       [ "CLion", "index.html#autotoc_md4", null ]
     ] ],
     [ "Generate Doxygen Documents", "index.html#autotoc_md5", null ],
+    [ "CLion Quick Start", "md__github_docs_CLionQuickStart_CLionQuickStart.html", null ],
+    [ "Code Styles and Guidelines", "md__github_docs_Code_Styles_and_Guidelines.html", [
+      [ "General", "md__github_docs_Code_Styles_and_Guidelines.html#autotoc_md10", null ],
+      [ "Includes", "md__github_docs_Code_Styles_and_Guidelines.html#autotoc_md11", null ],
+      [ "Class", "md__github_docs_Code_Styles_and_Guidelines.html#autotoc_md12", null ],
+      [ "File Types", "md__github_docs_Code_Styles_and_Guidelines.html#autotoc_md13", null ],
+      [ "File and Folder Naming", "md__github_docs_Code_Styles_and_Guidelines.html#autotoc_md14", null ],
+      [ "Variable Naming Convention", "md__github_docs_Code_Styles_and_Guidelines.html#autotoc_md15", null ]
+    ] ],
+    [ "Todo List", "todo.html", null ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -46,7 +56,8 @@ var NAVTREE =
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", null ],
         [ "Functions", "functions_func.html", null ],
-        [ "Variables", "functions_vars.html", null ]
+        [ "Variables", "functions_vars.html", null ],
+        [ "Enumerations", "functions_enum.html", null ]
       ] ]
     ] ],
     [ "Files", "files.html", [
@@ -57,9 +68,9 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"App_8hpp_source.html",
-"namespaceUtil.html#a17caf66bd49f055feb4a848c4da8cdc5a4350986433eebee5442729a1a4ac7add",
-"namespaceUtil.html#a80cdf50793a9101631584b20607a14e2a4f108a43d8c7c5d0c68ee0867293174e"
+"Animation_8hpp_source.html",
+"namespaceUtil.html#a17caf66bd49f055feb4a848c4da8cdc5a02129bb861061d1a052c592e2dc6b383",
+"namespaceUtil.html#a17caf66bd49f055feb4a848c4da8cdc5afe5c3684dce76cdd9f7f42430868aa74"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
